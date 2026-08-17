@@ -1,0 +1,26 @@
+.cabeça{
+    color: dodgerblue;
+    border: 2px solid black;
+    padding-right: 24px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+.projetos{
+    border: 2px solid black;
+    display: inline-block;
+    padding-right: 125px;
+    padding-bottom: 125px;
+}
+
+strong{
+    border: 2px solid black;
+}
+
+footer{
+    border: 2px solid black;
+}
